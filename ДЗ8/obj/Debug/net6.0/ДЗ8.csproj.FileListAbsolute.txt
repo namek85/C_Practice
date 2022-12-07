@@ -1,0 +1,15 @@
+/Users/dmitrijivanov/GitPractice/C_Practice/ДЗ8/bin/Debug/net6.0/ДЗ8
+/Users/dmitrijivanov/GitPractice/C_Practice/ДЗ8/bin/Debug/net6.0/ДЗ8.deps.json
+/Users/dmitrijivanov/GitPractice/C_Practice/ДЗ8/bin/Debug/net6.0/ДЗ8.runtimeconfig.json
+/Users/dmitrijivanov/GitPractice/C_Practice/ДЗ8/bin/Debug/net6.0/ДЗ8.dll
+/Users/dmitrijivanov/GitPractice/C_Practice/ДЗ8/bin/Debug/net6.0/ДЗ8.pdb
+/Users/dmitrijivanov/GitPractice/C_Practice/ДЗ8/obj/Debug/net6.0/ДЗ8.csproj.AssemblyReference.cache
+/Users/dmitrijivanov/GitPractice/C_Practice/ДЗ8/obj/Debug/net6.0/ДЗ8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijivanov/GitPractice/C_Practice/ДЗ8/obj/Debug/net6.0/ДЗ8.AssemblyInfoInputs.cache
+/Users/dmitrijivanov/GitPractice/C_Practice/ДЗ8/obj/Debug/net6.0/ДЗ8.AssemblyInfo.cs
+/Users/dmitrijivanov/GitPractice/C_Practice/ДЗ8/obj/Debug/net6.0/ДЗ8.csproj.CoreCompileInputs.cache
+/Users/dmitrijivanov/GitPractice/C_Practice/ДЗ8/obj/Debug/net6.0/ДЗ8.dll
+/Users/dmitrijivanov/GitPractice/C_Practice/ДЗ8/obj/Debug/net6.0/refint/ДЗ8.dll
+/Users/dmitrijivanov/GitPractice/C_Practice/ДЗ8/obj/Debug/net6.0/ДЗ8.pdb
+/Users/dmitrijivanov/GitPractice/C_Practice/ДЗ8/obj/Debug/net6.0/ДЗ8.genruntimeconfig.cache
+/Users/dmitrijivanov/GitPractice/C_Practice/ДЗ8/obj/Debug/net6.0/ref/ДЗ8.dll
